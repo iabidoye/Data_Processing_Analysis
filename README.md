@@ -48,3 +48,14 @@ The repository includes a series of visualizations that provide deeper insights 
    ```bash
    git clone https://github.com/yourusername/Customer-Data-Processing.git
    cd Customer-Data-Processing
+   
+2. Install dependencies:
+   ```bash
+   pip install pandas seaborn
+   Open the Jupyter Notebook and execute the provided scripts to process and analyze the data.
+   
+3. 🤝 Contribution
+   Contributions are welcome! If you would like to enhance the dataset, improve the processing logic, or extend visualizations, feel free to submit a pull request.
+
+📧 Contact
+For inquiries or collaboration opportunities, please reach out.
